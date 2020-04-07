@@ -22,11 +22,11 @@ In addition to coding interviews, system design is a **required component** of t
 
 Additional topics for interview prep:
 
-* [Study guide](#study-guide)
-* [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question)
-* [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
+* [Study guide](./study_guide.md)
+* [How to approach a system design interview question](./interview_guide.md)
+* [System design interview questions, **with solutions**](./interview_guide.md)
 * [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-* [Additional system design interview questions](#additional-system-design-interview-questions)
+* [Additional system design interview questions](./interview_guide.md)
 
 ## Anki flashcards
 
@@ -52,7 +52,7 @@ Check out the sister repo [**Interactive Coding Challenges**](https://github.com
 >
 > Each section contains links to more in-depth resources.
 
-* [System design topics: start here](#system-design-topics-start-here)
+* [System design topics: start here](#System-design-topics-Explained)
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
     * [Step 2: Review the scalability article](#step-2-review-the-scalability-article)
     * [Next steps](#next-steps)
